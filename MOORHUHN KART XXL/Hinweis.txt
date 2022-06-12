@@ -1,0 +1,23 @@
+Vielen Dank, dass du dir Moorhuhn Kart XXL gekauft hast. 
+Moorhuhn Kart XXL bietet dir neben jeder Menge rasantem Spielspaß noch
+ein absolut cooles Extra-Feature. Fordere deine Freunde über das Internet
+heraus, deine Bestzeiten zu schlagen und lasse sie gegen dein "Phantom Kart"
+antreten. Näheres zu diesem Feature steht in der Spielanleitung. Die findest
+du im Startmenü unter Programme > Moorhuhn Kart XXL oder in dem von dir
+gewählten Programmordner.
+
+Damit du Moorhuhn Kart XXL spielen kannst, müssen auf deinem Rechner sowohl
+DirectX 8.1 (auf der CD enthalten), als auch die neusten Grafik- und Sound-
+kartentreiber installiert sein. Sollte es Probleme beim Spielstart geben,
+empfehlen wir zunächst, die neusten Treiber vom Hersteller der Hardware zu
+besorgen (am besten von dessen Website) und zu installieren. 
+
+Moorhuhn Kart ist ein 3D-Spiel und stellt damit hohe Anforderungen an deine
+Hardware. Es ist ratsam, andere Programme zu beenden, bevor du Moorhuhn Kart XXL
+startest. Solltest du Probleme mit Moorhuhn Kart XXL haben, schau am besten in
+den FAQs (im Startmenü unter Programme > Moorhuhn Kart XXL oder in dem von dir
+gewählten Programmordner) nach.
+
+Wir wünschen dir viel Spaß bei den spannenden Rennen, die auf dich warten!
+
+Das Moorhuhn Kart Team

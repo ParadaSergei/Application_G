@@ -1,0 +1,85 @@
+***  Installation Started 01/25/2006 19:39  ***
+Title: Luxor: Amun Rising Installation
+Source: C:\DOCUME~1\User\LOCALS~1\Temp\GLB24.tmp
+Made Dir: C:\Program Files\GameHouse
+Made Dir: C:\Program Files\GameHouse\Luxor Amun Rising
+File Copy: C:\Program Files\GameHouse\Luxor Amun Rising\UNWISE.EXE
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Luxor: Amun Rising
+RegDB Val: Luxor: Amun Rising
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Luxor: Amun Rising
+RegDB Val: C:\PROGRA~1\GAMEHO~1\LUXORA~1\UNWISE.EXE /U C:\PROGRA~1\GAMEHO~1\LUXORA~1\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+File Copy: C:\Program Files\GameHouse\Luxor Amun Rising\core.dll
+File Copy: C:\Program Files\GameHouse\Luxor Amun Rising\crash.dll
+File Copy: C:\Program Files\GameHouse\Luxor Amun Rising\dsetup.dll
+File Copy: C:\Program Files\GameHouse\Luxor Amun Rising\file.dll
+File Copy: C:\Program Files\GameHouse\Luxor Amun Rising\fmod.dll
+File Copy: C:\Program Files\GameHouse\Luxor Amun Rising\gfx2d.dll
+File Copy: C:\Program Files\GameHouse\Luxor Amun Rising\gfx2d_dd7.dll
+File Copy: C:\Program Files\GameHouse\Luxor Amun Rising\gfx2d_dx8.dll
+File Copy: C:\Program Files\GameHouse\Luxor Amun Rising\gfx2d_ogl.dll
+File Copy: C:\Program Files\GameHouse\Luxor Amun Rising\imglib.dll
+File Copy: C:\Program Files\GameHouse\Luxor Amun Rising\jpeg.dll
+File Copy: C:\Program Files\GameHouse\Luxor Amun Rising\logger.dll
+File Copy: C:\Program Files\GameHouse\Luxor Amun Rising\LuxorAmun.exe
+File Copy: C:\Program Files\GameHouse\Luxor Amun Rising\luxoramunres.dll
+File Copy: C:\Program Files\GameHouse\Luxor Amun Rising\luxorAR.ini
+File Copy: C:\Program Files\GameHouse\Luxor Amun Rising\net.dll
+File Copy: C:\Program Files\GameHouse\Luxor Amun Rising\readme.txt
+File Copy: C:\Program Files\GameHouse\Luxor Amun Rising\snd3d.dll
+File Copy: C:\Program Files\GameHouse\Luxor Amun Rising\snd3d_fmod.dll
+File Copy: C:\Program Files\GameHouse\Luxor Amun Rising\ui2.dll
+Made Dir: C:\Program Files\GameHouse\Luxor Amun Rising\assets
+File Copy: C:\Program Files\GameHouse\Luxor Amun Rising\assets\button_moregames.jpg
+File Copy: C:\Program Files\GameHouse\Luxor Amun Rising\assets\button_moregames.spr
+File Copy: C:\Program Files\GameHouse\Luxor Amun Rising\assets\splashscreen.jpg
+Made Dir: C:\Program Files\GameHouse\Luxor Amun Rising\data
+File Copy: C:\Program Files\GameHouse\Luxor Amun Rising\data\data.mjz
+File Copy: C:\Program Files\GameHouse\Luxor Amun Rising\data\english.mjz
+Made Dir: C:\Documents and Settings\User\Главное меню\Программы\GameHouse
+File Copy: C:\Documents and Settings\User\Главное меню\Программы\GameHouse\Visit GameHouse.com.url
+File Copy: C:\Documents and Settings\User\Рабочий стол\More Games at GameHouse.com.url
+Shell Link: C:\Documents and Settings\All Users\Рабочий стол\Luxor - Amun Rising.lnk
+Made Dir: C:\Documents and Settings\All Users\Главное меню\Программы\GameHouse
+Made Dir: C:\Documents and Settings\All Users\Главное меню\Программы\GameHouse\Luxor Amun Rising
+Shell Link: C:\Documents and Settings\All Users\Главное меню\Программы\GameHouse\Luxor Amun Rising\Luxor - Amun Rising.lnk
+Shell Link: C:\Documents and Settings\All Users\Главное меню\Программы\GameHouse\Luxor Amun Rising\Read Me!.lnk
+Shell Link: C:\Documents and Settings\All Users\Главное меню\Программы\GameHouse\Luxor Amun Rising\Uninstall Luxor - Amun Rising.lnk
+RegDB Key: Software\GameHouse\LuxorAmun
+RegDB Val: C:\Program Files\GameHouse\Luxor Amun Rising\LuxorAmun.exe
+RegDB Name: InstallPath
+RegDB Root: 1
+RegDB Key: Software\GameHouse\LuxorAmun
+RegDB Val: 1.5.5.8
+RegDB Name: InstallVersion
+RegDB Root: 1
+Delete in-use files: On
+File Copy: C:\Program Files\GameHouse\Luxor Amun Rising\luxorAR.log
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Luxor: Amun Rising
+RegDB Val: http://www.gamehouse.com/
+RegDB Name: HelpLink
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Luxor: Amun Rising
+RegDB Val: GameHouse, Inc.
+RegDB Name: Publisher
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Luxor: Amun Rising
+RegDB Val: http://www.gamehouse.com/
+RegDB Name: URLInfoAbout
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Luxor: Amun Rising
+RegDB Val: support@gamehouse.com
+RegDB Name: Contact
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Luxor: Amun Rising
+RegDB Val: Copyright © 2005 GameHouse, Inc.
+RegDB Name: Comments
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Luxor: Amun Rising
+RegDB Val: C:\Program Files\GameHouse\Luxor Amun Rising\LuxorAmun.exe,-0
+RegDB Name: DisplayIcon
+RegDB Root: 2
+User Rights: Admin

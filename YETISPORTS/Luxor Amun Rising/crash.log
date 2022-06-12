@@ -1,0 +1,20 @@
+application~ Luxor: Amun Rising
+app_version~ 1.5.5.8 GH
+os~ Windows XP Service Pack 3
+os_version~ 5.1.2600
+processors~ 1
+physical_ram_total~ 1535.48 MB
+physical_ram_current~ 1099.40 MB
+virtual_ram_total~ 2047.88 MB
+virtual_ram_current~ 1964.18 MB
+dx_version~ 4.10.0.18000
+renderer~ gfx2d_dx8.dll
+desktop~ 1280x768x32
+fullscreen~ 1
+exception_code~ ACCESS_VIOLATION
+fault_address~ 77C32A16 01:00031A16 C:\WINDOWS\system32\msvcrt.dll
+call_stack~
+77C32A16 0012EC14 0001:00031A16 wscanf+750 [000001e7]
+77C2FFB9 0012EC50 0001:0002EFB9 vsnprintf+2F [000001e7]
+003413DD 000016E0 0001:000003DD udLogger::log+3D [000001e7]
+
